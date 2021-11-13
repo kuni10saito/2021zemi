@@ -1,0 +1,9 @@
+# train and val data
+train: /content/yolov5/ano_AI
+val: /content/yolov5/ano_AI
+
+# number of classes
+nc: 2
+
+# class names
+names: ['straight','natural']
