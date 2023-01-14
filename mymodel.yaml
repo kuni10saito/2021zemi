@@ -1,0 +1,9 @@
+
+train: ../ano41/*
+val: ../ano41/*
+
+# number of classes
+nc: 3
+
+# class names
+names: ['top','bottom', 'coat']
