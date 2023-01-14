@@ -1,7 +1,7 @@
 
 
-train: ../2021zemi/ano_data衣服解析/*
-val: ../2021zemi/ano_data衣服解析/*
+train: /content/ano_data衣服解析
+val: /content/ano_data衣服解析
 
 # number of classes
 nc: 3
